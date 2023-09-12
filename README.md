@@ -1,2 +1,3 @@
 # MAG-common-files
-File holding common assets for reuse in further "MAG" projects
+Repo for all files relevant to this project.
+These files can be used and adapted in accordance with Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
